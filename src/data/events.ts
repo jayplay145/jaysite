@@ -8,7 +8,7 @@ export const events: Event[] = [
     location: 'Online - YouTube Live',
     description: 'Join us for a live breakdown of all the biggest announcements from Summer Game Fest 2025! Chat with the community and win exclusive prizes.',
     tags: ['Livestream', 'Game Announcements', 'Giveaway'],
-    registrationLink: 'https://youtube.com/jayplay/live'
+    registrationLink: 'https://www.youtube.com/@JayPlay-u6s'
   },
   {
     id: '2',
@@ -17,7 +17,7 @@ export const events: Event[] = [
     location: 'TechCon Center, San Francisco',
     description: 'JayPlay hosts a panel discussion with industry leaders on the future of gaming technology. Special guest appearances from major developers.',
     tags: ['Panel Talk', 'Networking', 'Industry Insights'],
-    registrationLink: 'https://jayplay.com/events/panel2025'
+    registrationLink: 'https://www.youtube.com/@JayPlay-u6s'
   },
   {
     id: '3',
@@ -26,7 +26,7 @@ export const events: Event[] = [
     location: 'Online - Discord',
     description: 'Compete against the JayPlay community in our biggest tournament yet! $5000 prize pool and exclusive merch for top players.',
     tags: ['Tournament', 'Competition', 'Community'],
-    registrationLink: 'https://discord.gg/jayplay'
+    registrationLink: 'https://www.youtube.com/@JayPlay-u6s'
   },
   {
     id: '4',
@@ -35,7 +35,7 @@ export const events: Event[] = [
     location: 'TechHub, New York',
     description: 'Get hands-on with the latest gaming hardware before anyone else! JayPlay partners with top manufacturers for an exclusive showcase event.',
     tags: ['Hardware', 'Demo', 'Hands-on'],
-    registrationLink: 'https://jayplay.com/events/hardware2025'
+    registrationLink: 'https://www.youtube.com/@JayPlay-u6s'
   },
   {
     id: '5',
@@ -44,6 +44,6 @@ export const events: Event[] = [
     location: 'GameBar, Los Angeles',
     description: 'Meet the JayPlay team and fellow community members! Casual gaming, food, drinks, and great conversation about all things tech and gaming.',
     tags: ['Meetup', 'Networking', 'Social'],
-    registrationLink: 'https://jayplay.com/events/meetup-la'
+    registrationLink: 'https://www.youtube.com/@JayPlay-u6s'
   }
 ];
